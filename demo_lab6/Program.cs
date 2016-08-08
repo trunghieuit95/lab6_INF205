@@ -11,6 +11,7 @@ namespace demo_lab6
         {
             //install
             //demo
+            //demo2
         }
     }
 }
